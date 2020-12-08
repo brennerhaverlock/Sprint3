@@ -130,3 +130,18 @@ p {
 }
 
 
+
+h3 {
+  text-align: center;
+  padding-top: 40px;
+}
+
+label {
+  border-left-width: 0px;
+  border-right-width: 0px;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 30px;
+}
+
+
