@@ -203,3 +203,10 @@ label {
   width: 15%;
   margin: 20px 20px 50px;
 }
+
+/* CTA Section */
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+}
