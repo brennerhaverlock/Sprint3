@@ -47,14 +47,14 @@ const data = [
   {
     id: 7,
     name: 'K552-2 Kumara Wired TKL Gaming Mechanical Blue Switch Keyboard with Back Lighting - Black',
-    image: './resources/images/energetic_puppy.gif',
+    image: './resources/images/keyboard7.jpg',
     desc: 'The Redragon Kumara mechanical gaming keyboard features a solid aircraft-grade aluminium and ABS construction',
     price: 34.99,
   },
   {
     id: 8,
     name: ' G513 Carbon RGB Wired Gaming Mechanical GX Blue Switch Keyboard - Carbon',
-    image: './resources/images/gloomy_girl.gif',
+    image: './resources/images/keyboard8.jpg',
     desc:
       'Enter a new world of high-performance play with this Logitech gaming keyboard. Advanced design, LIGHTSYNC technology and an industry-leading 1 ms report rate join with the comfort of a memory foam palm rest for a truly immersive experience',
     price: 99.99,
@@ -62,28 +62,28 @@ const data = [
   {
     id: 9,
     name: 'G413 Wired Gaming Mechanical Romer-G Switch Keyboard with Backlighting - Silver',
-    image: './resources/images/scared_spongebob.gif',
+    image: './resources/images/keyboard9.jpg',
     desc: 'Connect this Logitech mechanical gaming keyboard to your desktop computer, and keep up with the action of your PC games.',
     price: 69.99,
   },
   {
     id: 10,
     name: 'Apex 5 Wired Gaming Hybrid Mechanical Blue Keyboard',
-    image: './resources/images/shy_dog.gif',
+    image: './resources/images/keyboard10.jpg',
     desc: "Game to your full potential with this SteelSeries Apex 5 Hybrid mechanical keyboard.",
     price: 99.99,
   },
   {
     id: 11,
     name: 'K63 Tenkeyless Compact Mechanical Gaming ',
-    image: './resources/images/sleepy_cat.gif',
+    image: './resources/images/keyboard11_.jpg',
     desc: 'Get ultimate gaming performance with this Corsair K63 gaming keyboard. ',
     price: 79.99,
   },
   {
     id: 12,
     name: 'Syber K1 Wired Mechanical Kontact Red Keyboard',
-    image: './resources/images/surprised_2.gif',
+    image: './resources/images/keyboard12.jpg',
     desc:
       'Enhance your gaming performance with this CyberPowerPC mechanical gaming keyboard. ',
     price: 79.99,
